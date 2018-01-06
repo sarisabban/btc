@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 import re , urllib.request, time , json , sys
 
 #https://www.bitstamp.net/api/
